@@ -1,0 +1,15 @@
+{
+  "uuid": "552d2a87-3a63-4518-9908-7132a6439a46",
+  "shortName": "School Schedule",
+  "longName": "School Schedule",
+  "companyName": "Miles O'Keefe",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": []
+  }
+}
